@@ -2,3 +2,5 @@
 git is free software.
 
 git is very Good.
+
+look at git's status.
